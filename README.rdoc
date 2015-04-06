@@ -1,0 +1,4 @@
+== Rails API
+
+Connect through json format
+
